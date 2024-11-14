@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Senior Software Developer with expertise in developing ERP systems, mobile applications, and web platforms. I have a strong background in technologies like Java, Spring Boot, Flutter, Angular, and Django, with hands-on experience delivering innovative solutions in fields such as sales, CRM, and eCommerce. Skilled in optimizing system performance and managing complex data, I am committed to creating scalable, user-focused applications<br>And I am currently learning gen ai vector database langchain
-
+I am a Senior Software Developer with deep expertise in building ERP systems, mobile apps, and web platforms using technologies like Java, Spring Boot, Flutter, Angular, and Django. I bring hands-on experience delivering innovative solutions across industries, from sales and CRM to eCommerce. Skilled in optimizing system performance and handling complex data, I am dedicated to creating scalable, user-centered applications. Currently, I am expanding my skills in generative AI, vector databases, and LangChain to drive the next wave of intelligent solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-070) 
