@@ -1,12 +1,20 @@
 # 💫 About Me:
-👋 Hi there! I’m a Senior Software Developer specializing in crafting 🌍 web applications, 💻 .NET applications, and 📱 Flutter mobile apps with a focus on elegant design and user-friendly experiences 🎨.
+👨‍💻 Aryan Shah – Senior Software Developer
 
-🎓 I hold a B.Tech in Computer Science and Engineering and am always learning—currently diving into 🧠 Generative AI, 🗃️ vector databases, and LangChain.
+🌟 I am a Senior Software Developer with over 2+ years of experience in building efficient, high-quality ERP systems, mobile applications, and web platforms. My expertise spans across multiple technologies, including:
 
-✈️ Open for work-let’s connect! ✍️ I also share insights on programming & tech on my personal blog. 🤝 Interested in open-source collaborations? Let’s make it happen!
+💻 Java & Spring Boot: Developed robust back-end solutions, focusing on performance and scalability.
+📱 Flutter: Created cross-platform mobile apps with seamless user experiences.
+🌐 Angular & Django: Built interactive and responsive web applications for various industries.
+🔹 Hands-On Experience: Delivered impactful solutions in domains such as sales, CRM, and eCommerce, helping businesses optimize operations and customer engagement.
 
-📭 Reach me at: aryan070@icloud.com 🔗 Connect with me on LinkedIn and explore my repositories!
+🔹 System Optimization: Skilled in enhancing performance, reducing load times, and managing complex data structures to ensure smooth and scalable applications.
 
+🔹 Passionate About Learning: Currently expanding my knowledge in cutting-edge areas like 🧠 Generative AI, 🗃️ vector databases, and LangChain to integrate AI-powered solutions into my work.
+
+✈️ Open to new remote opportunities and collaborations. Let’s connect and build something innovative!
+
+📭 Reach out at: aryan070@icloud.com 🔗 LinkedIn: https://www.linkedin.com/in/aryan-shah070/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-070) 
